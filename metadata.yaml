@@ -1,5 +1,8 @@
 _repo: A-Few-Suggestions-to-McGraw-Hill-Authors-Details-of-manuscript-preparation-typograpy-proof-re__54146
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54146-h/images/cover-300.jpg
 creator:
   author:
     agent_name: McGraw-Hill Publishing Company
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '47729'
     url: http://www.gutenberg.org/2009/agents/47729
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54146#A-Few-Suggestions-to-McGraw-Hill-Authors-Details-of-manuscript-preparation-typograpy-proof-re_
 gutenberg_issued: '2017-02-10'
 gutenberg_type: Text
 identifiers:
