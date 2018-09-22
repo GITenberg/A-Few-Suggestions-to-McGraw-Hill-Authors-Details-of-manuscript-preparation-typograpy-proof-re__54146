@@ -1,0 +1,29 @@
+_repo: A-Few-Suggestions-to-McGraw-Hill-Authors-Details-of-manuscript-preparation-typograpy-proof-re__54146
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McGraw-Hill Publishing Company
+    aliases:
+    - McGraw-Hill Publishing Co.
+    - Company, McGraw-Hill Publishing
+    gutenberg_agent_id: '47729'
+    url: http://www.gutenberg.org/2009/agents/47729
+description: ''
+gutenberg_issued: '2017-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54146'
+  lccn: '22021574'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Manuscript preparation (Authorship) -- Handbooks, manuals, etc.'
+- !lcsh 'Authorship -- Style manuals'
+- GITenberg
+title: "A Few Suggestions to McGraw-Hill Authors.\r\nDetails of manuscript preparation,\
+  \ typograpy, proof-reading and other matters in the production of manuscripts and\
+  \ books."
+url: http://www.gutenberg.org/ebooks/54146
